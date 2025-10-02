@@ -1,0 +1,26 @@
+[28-Aug-2025 06:12:04 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/customer/www/rsoa34.millioncoders.net/public_html/Sheraton/process_booking.php:44
+Stack trace:
+#0 /home/customer/www/rsoa34.millioncoders.net/public_html/Sheraton/process_booking.php(44): mysqli_stmt->bind_param('issssiiid i', 1, 'nayif', 'abdulrehmannayi...', '034445555590', '2025-08-28', '2025-08-29', 2, '', 1, 120.0)
+#1 {main}
+  thrown in /home/customer/www/rsoa34.millioncoders.net/public_html/Sheraton/process_booking.php on line 44
+[28-Aug-2025 06:12:12 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/customer/www/rsoa34.millioncoders.net/public_html/Sheraton/process_booking.php:44
+Stack trace:
+#0 /home/customer/www/rsoa34.millioncoders.net/public_html/Sheraton/process_booking.php(44): mysqli_stmt->bind_param('issssiiid i', 1, 'nayif', 'abdulrehmannayi...', '034445555590', '2025-08-28', '2025-08-29', 2, '', 1, 120.0)
+#1 {main}
+  thrown in /home/customer/www/rsoa34.millioncoders.net/public_html/Sheraton/process_booking.php on line 44
+[28-Aug-2025 06:18:00 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/customer/www/rsoa34.millioncoders.net/public_html/sherton/process_booking.php:44
+Stack trace:
+#0 /home/customer/www/rsoa34.millioncoders.net/public_html/sherton/process_booking.php(44): mysqli_stmt->bind_param('issssiiid i', 1, 'nayif', 'abdulrehmannayi...', '034445555590', '2025-08-28', '2025-08-30', 2, '', 2, 240.0)
+#1 {main}
+  thrown in /home/customer/www/rsoa34.millioncoders.net/public_html/sherton/process_booking.php on line 44
+[28-Aug-2025 06:19:15 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/customer/www/rsoa34.millioncoders.net/public_html/sherton/process_booking.php:47
+Stack trace:
+#0 /home/customer/www/rsoa34.millioncoders.net/public_html/sherton/process_booking.php(47): mysqli_stmt->bind_param('issssiiid i', 1, 'nayif', 'abdulrehmannayi...', '034445555590', '2025-08-28', '2025-08-30', 2, '', 2, 240.0)
+#1 {main}
+  thrown in /home/customer/www/rsoa34.millioncoders.net/public_html/sherton/process_booking.php on line 47
+[28-Aug-2025 06:19:24 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/customer/www/rsoa34.millioncoders.net/public_html/sherton/process_booking.php:47
+Stack trace:
+#0 /home/customer/www/rsoa34.millioncoders.net/public_html/sherton/process_booking.php(47): mysqli_stmt->bind_param('issssiiid i', 1, 'nayif', 'abdulrehmannayi...', '034445555590', '2025-08-28', '2025-08-30', 2, '', 2, 240.0)
+#1 {main}
+  thrown in /home/customer/www/rsoa34.millioncoders.net/public_html/sherton/process_booking.php on line 47
+ 
